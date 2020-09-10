@@ -1,0 +1,20 @@
+span{
+    border: 2px dotted red
+}
+ .inline{
+     display:inline;
+     width:100px;
+     background-color:red;
+ }
+ .block{
+    display: block;
+    width:100px;
+    height:100px;
+ }  
+ .inline-block {
+     display: inline-block;
+     width:100px;
+     height:100px;
+ }
+
+
